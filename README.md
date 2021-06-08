@@ -22,5 +22,8 @@
 
 * Сценарий использования в виде диаграммы Use-case
 
-![СХЕМЫ СЦЕНАРИЕВ ИСПОЛЬЗОВАНИЯ](https://user-images.githubusercontent.com/80450495/121102458-481ab180-c806-11eb-908f-58e9b58960de.jpeg)
+![wm9BoBYOlc0](https://user-images.githubusercontent.com/80450495/121228893-fd487a80-c895-11eb-9ad5-2454e9b29607.jpg)
+
+
+
 
