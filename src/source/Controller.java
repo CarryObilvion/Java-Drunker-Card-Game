@@ -224,7 +224,7 @@ public class Controller {
             // номиналы
             for (CardDenominations denomination : CardDenominations.values()) {
                 // колода может быть 36 или 52 карты (джокеры не используются)
-                // если не isBigDeck (big dick), то колода 36 карт...
+                // если не isBigDeck , то колода 36 карт...
                 if (!isBigDeck) {
                     // ...соответственно пропускаем 2,3,4,5 значения карт
                     if (denomination == CardDenominations.Two ||
